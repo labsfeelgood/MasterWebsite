@@ -1,0 +1,104 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+/* [class*="col"]{
+  border: 3px solid red;
+} */
+
+.homeImage{
+  background-image: url("./Images/supply_home.jpg");
+  background-color: #cccccc;
+}
+#searchDiv{
+  margin-top: 100px;
+  bottom: 0;
+}
+.headText{
+  margin-left: 30px;
+}
+.cardRow{
+  margin-left: 60px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+.headText {
+  font-size: 40px;
+  font-weight: 600;
+  background-image: linear-gradient(to left, #553c9a, #b393d3);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.thirteen h3 {
+  position:relative; font-size:20px; font-weight:700;  letter-spacing:0px; text-transform:uppercase; width:200px; text-align:center; margin:auto; white-space:nowrap; border:2px solid #222;padding:5px 11px 3px 11px;
+}
+.thirteen h3:before, .thirteen h3:after {
+    background-color: #c50000;
+    position:absolute; 
+    content: '';
+    height: 7px;
+
+    width: 7px; border-radius:50%;
+    bottom: 12px;
+}
+.thirteen h3:before {
+   left:-20px;
+}
+.thirteen h3:after {
+   right:-20px;
+}
+
+
+.twelve h1 {
+  font-size:26px; font-weight:700;  letter-spacing:1px; text-transform:uppercase; width:160px; text-align:center; margin:auto; white-space:nowrap; padding-bottom:13px;
+}
+.twelve h1:before {
+    background-color: #c50000;
+    content: '';
+    display: block;
+    height: 3px;
+    width: 75px;
+    margin-bottom: 5px;
+}
+.twelve h1:after {
+    background-color: #c50000;
+    content: '';
+    display: block;
+  position:absolute; right:0; bottom:0;
+    height: 3px;
+    width: 75px;
+    margin-bottom: 0.25em;
+}
+
+.outerDiv{
+  margin-right: 130px;
+  margin-left: 130px;
+  margin-top: 30px;
+}
+.listIP{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.listCard{
+  margin: 12px;
+}

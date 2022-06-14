@@ -1,9 +1,10 @@
 import { Link } from "react-router-dom";
-import { Container, Row, Col } from "react-bootstrap";
+import { Container, Row, Col, Card,Button } from "react-bootstrap";
 
 const NotFound = () => {
   return (
-    <Container fluid="md" className="mt-5">
+    <div>
+      <Container fluid="md" className="mt-5">
       <Row>
         <Col>
           <div className="card">
@@ -21,6 +22,9 @@ const NotFound = () => {
         </Col>
       </Row>
     </Container>
+
+    
+    </div>
   );
 };
 
