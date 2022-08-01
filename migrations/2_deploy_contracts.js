@@ -1,5 +1,5 @@
-var SimpleStorage = artifacts.require("./PharmaSupplyContract.sol");
+const SimpleStorage = artifacts.require("SimpleStorage");
 
-module.exports = function(deployer) {
+module.exports = function (deployer) {
   deployer.deploy(SimpleStorage);
 };
