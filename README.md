@@ -15,7 +15,7 @@ Galileo Network enables luxury brands to combat counterfeiting by accompanying t
 In the coming decade, most of the physical world will get tokenised. Tokenisation is inevitable at this point, and Galileo will do its part by providing retail and businesses with services facilitating this (r)evolution.
 Our dream is to level the economic playing field through the tokenisation and fractionalisation of assets. This is only the beginning. The perception of value and the distribution thereof will evolve dramatically. Galileo leads the way.
 
-To get started with Galileo Protocol, check out our [official website](https://www.galileoprotocol.io/){:target="_blank"}
+To get started with Galileo Protocol, check out our [official website](https://www.galileoprotocol.io/)
 
 ## Social Media
 
