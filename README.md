@@ -22,20 +22,11 @@ To get started with Galileo Protocol, check out our [official website](https://w
 Follow us on social media to stay updated with the latest news and developments:
 
 [![Twitter](https://img.shields.io/badge/Twitter-%40GalileoProtocol-blue?logo=twitter)](https://twitter.com/GalileoProtocol)
-[![Telegram](https://img.shields.io/badge/Telegram-Galileo%20Protocol%20Official%20Group-blue?logo=telegram)](https://t.me/GalileoProtocol)
-[![Reddit](https://img.shields.io/badge/Reddit-%2Fr%2FGalileoProtocol-blue?logo=reddit)](https://www.reddit.com/r/GalileoProtocol/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Galileo%20Protocol-blue?logo=linkedin)](https://www.linkedin.com/company/galileo-protocol/)
 [![Medium](https://img.shields.io/badge/Medium-%40GalileoProtocol-blue?logo=medium)](https://medium.com/@GalileoProtocol)
+[![Telegram](https://img.shields.io/badge/Telegram-Galileo%20Protocol%20Official%20Group-blue?logo=telegram)](https://t.me/GalileoProtocol)
 
-
-[<img align="left" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/master/assets/twitter.png" />](https://twitter.com/GalileoProtocol)
-[<img align="left" alt="Telegram" width="30px" src="https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/master/assets/telegram.png" />](https://t.me/GalileoProtocol)
-[<img align="left" alt="Reddit" width="30px" src="https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/master/assets/reddit.png" />](https://www.reddit.com/r/GalileoProtocol/)
-[<img align="left" alt="Medium" width="30px" src="https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/master/assets/medium.png" />](https://medium.com/@GalileoProtocol)
 
 
 ## Getting Started with the repo
 
-
-## License
-
-Galileo Protocol is licensed under the [MIT License](LICENSE).
