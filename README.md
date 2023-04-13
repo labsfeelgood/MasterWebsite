@@ -4,6 +4,13 @@ Galileo Protocol is a blockchain-based platform that provides a secure and scala
 
 ![Galileo Protocol Banner](https://demo.galileoprotocol.io/static/media/galileo.0c691f45.png)
 
+
+<p align="center">
+  <img src="https://demo.galileoprotocol.io/static/media/galileo.0c691f45.png"/>
+</p>
+
+
+
 ## Vision
 
 Our vision is to create a decentralized platform that enables developers to build scalable and secure applications, without compromising on user privacy.
