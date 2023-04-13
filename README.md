@@ -1,60 +1,30 @@
-# React Bootstrap Starter
+# Galileo Protocol
 
-![logo](./screenshots/react-bootstrap-starter.png)
+Galileo Protocol is a blockchain-based platform that provides a secure and scalable infrastructure for decentralized applications (dApps). The platform utilizes a unique consensus mechanism called the Proof-of-Usage (PoU) that rewards users for utilizing the network resources. Galileo Protocol offers features such as smart contracts, cross-chain compatibility, and privacy protection.
 
-[Documentation](https://chrisdevcode.hashnode.dev/react-and-bootstrap-starter-template) | [Live Demo](https://react-bootstrap-temp.netlify.app/)
+![Galileo Protocol Banner](https://www.galileoprotocol.io/images/galileo-banner.png)
 
-React Bootstrap Starter is a starter template for react and bootstrap created by [Chris Achinga](http://chrisdev.netlify.app). This theme uses Create React App, react-bootstrap and gh-pages.
+## Vision
 
+Our vision is to create a decentralized platform that enables developers to build scalable and secure applications, without compromising on user privacy.
 
-## Download and Installation
+## Social Media
 
-To begin using this template, choose one of the following options to get started:
+Follow us on social media to stay updated with the latest news and developments:
 
-Fork and clone the repository.
+- Twitter: [@GalileoProtocol](https://twitter.com/GalileoProtocol)
+- Telegram: [Galileo Protocol Official Group](https://t.me/GalileoProtocol)
+- Reddit: [/r/GalileoProtocol](https://www.reddit.com/r/GalileoProtocol/)
+- Medium: [@GalileoProtocol](https://medium.com/@GalileoProtocol)
 
-Install the dependencies:
+## Getting Started
 
-```powershell-interactive
-npm install
-```
+To get started with Galileo Protocol, check out our [official website](https://www.galileoprotocol.io/) and read our [documentation](https://docs.galileoprotocol.io/). You can also join our [Telegram group](https://t.me/GalileoProtocol) to ask questions and chat with the community.
 
-## Usage
+## Contributing
 
-Start editing and customizing according to your needs.
+We welcome contributions from the community! To learn how you can contribute to Galileo Protocol, please read our [contributing guidelines](CONTRIBUTING.md).
 
-Run locally:
+## License
 
-```powershell-interactive
-npm start
-```
-
-## Dependencies:
-
-- [React](https://reactjs.org/)
-- [Create React App](https://create-react-app.dev/)
-- [react-bootstrap](https://react-bootstrap.github.io/)
-
-## Bugs and Issues
-
-Have a bug or an issue with this template? Open a new issue here on GitHub.
-
-## Copyright and License
-
-Copyright 2021 Chris Achinga. Code released under the [MIT license](LICENSE).
-
-## Status
-
-<div align='center'>
-
-[![GitHub forks](https://img.shields.io/github/forks/ChrisAchinga/react-bootstrap-starter)](https://github.com/ChrisAchinga/react-bootstrap-starter/network)
-
-[![GitHub stars](https://img.shields.io/github/stars/ChrisAchinga/react-bootstrap-starter)](https://github.com/ChrisAchinga/react-bootstrap-starter/stargazers)
-
-[![Depfu](https://badges.depfu.com/badges/80c94d4ad87f69ecde6d83ae05e65b63/status.svg)](https://depfu.com)
-
-[![Depfu](https://badges.depfu.com/badges/80c94d4ad87f69ecde6d83ae05e65b63/overview.svg)](https://depfu.com/github/ChrisAchinga/react-bootstrap-starter?project_id=18009)
-
-[![Depfu](https://badges.depfu.com/badges/80c94d4ad87f69ecde6d83ae05e65b63/count.svg)](https://depfu.com/github/ChrisAchinga/react-bootstrap-starter?project_id=18009)
-
-</div>
+Galileo Protocol is licensed under the [MIT License](LICENSE).
