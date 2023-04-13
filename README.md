@@ -12,10 +12,11 @@ Our vision is to create a decentralized platform that enables developers to buil
 
 Follow us on social media to stay updated with the latest news and developments:
 
-- Twitter: [@GalileoProtocol](https://twitter.com/GalileoProtocol)
-- Telegram: [Galileo Protocol Official Group](https://t.me/GalileoProtocol)
-- Reddit: [/r/GalileoProtocol](https://www.reddit.com/r/GalileoProtocol/)
-- Medium: [@GalileoProtocol](https://medium.com/@GalileoProtocol)
+[![Twitter](https://img.shields.io/badge/Twitter-%40GalileoProtocol-blue?logo=twitter)](https://twitter.com/GalileoProtocol)
+[![Telegram](https://img.shields.io/badge/Telegram-Galileo%20Protocol%20Official%20Group-blue?logo=telegram)](https://t.me/GalileoProtocol)
+[![Reddit](https://img.shields.io/badge/Reddit-%2Fr%2FGalileoProtocol-blue?logo=reddit)](https://www.reddit.com/r/GalileoProtocol/)
+[![Medium](https://img.shields.io/badge/Medium-%40GalileoProtocol-blue?logo=medium)](https://medium.com/@GalileoProtocol)
+
 
 ## Getting Started
 
