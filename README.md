@@ -2,7 +2,7 @@
 
 Galileo Protocol is a blockchain-based platform that provides a secure and scalable infrastructure for decentralized applications (dApps). The platform utilizes a unique consensus mechanism called the Proof-of-Usage (PoU) that rewards users for utilizing the network resources. Galileo Protocol offers features such as smart contracts, cross-chain compatibility, and privacy protection.
 
-![Galileo Protocol Banner](https://www.galileoprotocol.io/images/galileo-banner.png)
+![Galileo Protocol Banner](https://demo.galileoprotocol.io/static/media/galileo.0c691f45.png)
 
 ## Vision
 
