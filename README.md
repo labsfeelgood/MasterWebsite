@@ -27,6 +27,12 @@ Follow us on social media to stay updated with the latest news and developments:
 [![Medium](https://img.shields.io/badge/Medium-%40GalileoProtocol-blue?logo=medium)](https://medium.com/@GalileoProtocol)
 
 
+[<img align="left" alt="Twitter" width="30px" src="https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/master/assets/twitter.png" />](https://twitter.com/GalileoProtocol)
+[<img align="left" alt="Telegram" width="30px" src="https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/master/assets/telegram.png" />](https://t.me/GalileoProtocol)
+[<img align="left" alt="Reddit" width="30px" src="https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/master/assets/reddit.png" />](https://www.reddit.com/r/GalileoProtocol/)
+[<img align="left" alt="Medium" width="30px" src="https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/master/assets/medium.png" />](https://medium.com/@GalileoProtocol)
+
+
 ## Getting Started with the repo
 
 
